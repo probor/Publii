@@ -9,4 +9,25 @@
     </author>
     <id>https://probor.github.io/Publii</id>
 
+    <entry>
+        <title>荣家湾</title>
+        <author>
+            <name>Federer</name>
+        </author>
+        <link href="https://probor.github.io/Publii/rong-jia-wan.html"/>
+        <id>https://probor.github.io/Publii/rong-jia-wan.html</id>
+
+        <updated>2020-09-23T21:57:26+08:00</updated>
+            <summary>
+                <![CDATA[
+                    不承认这么说。
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>不承认这么说。</p>
+
+            ]]>
+        </content>
+    </entry>
 </feed>
